@@ -9,3 +9,4 @@ This repository contains code to:
 - Build dimensional tables (“objects”, and “obj_close_approaches”) supporting asteroid-level and event-level exploration. 
 - Application of User Story 1 and 2
 
+Note - Please run the file in Databricks, as it includes some Databricks-specific visualizations and I was advised to use Databricks as the preferred environment.
