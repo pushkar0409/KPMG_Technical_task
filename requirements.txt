@@ -1,0 +1,6 @@
+#use the command to run the filr - pip install -r requirements.txt
+pandas
+matplotlib
+seaborn
+requests
+pyspark
